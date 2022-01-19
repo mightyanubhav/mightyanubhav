@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightyanubhav&label=Profile%20views&color=0e75b6&style=flat" alt="mightyanubhav" /> </p>
 
+![anubhav shukla por 2](https://user-images.githubusercontent.com/76528481/150057006-249ff899-13d1-4d97-80b4-2bd544f9baee.png)
 
 
 - 🔭 I’m currently Learning **Data-structures and Algorithms**
