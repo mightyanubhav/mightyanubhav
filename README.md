@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anubhav Shukla</h1>
-<h3 align="center">Front-End Developer and Critical Thinker</h3>
+<h3 align="center">Software Developer and a problem solver.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mightyanubhav&label=Profile%20views&color=0e75b6&style=flat" alt="mightyanubhav" /> </p>
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumaranubhav691@gmail.com**
 
-- ⚡ Fun fact **“I’d most like to be remembered for being a skilled person.”**
+- ⚡ Fun fact **“I'm better than yesterday !”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
