@@ -6,17 +6,17 @@
 ![anubhav shukla por 2](https://user-images.githubusercontent.com/76528481/150057006-249ff899-13d1-4d97-80b4-2bd544f9baee.png)
 
 
-- 🔭 I’m currently Learning **Data-structures and Algorithms**
+- 🔭 CODE MONKEY
 
 - 🌱 I’m currently learning **Java-Script and Java**
 
 - 👯 I’m looking to collaborate on **web development projects**
 
-- 💬 Ask me about **java, javaScript, css etc.**
+- 💬 Ask me about **java, javaScript, React etc.**
 
 - 📫 How to reach me **kumaranubhav691@gmail.com**
 
-- ⚡ Fun fact **“Coding is very boring !”**
+- ⚡ Fun fact **“Coding is very boring to being with and you'll get tired of Errors ;) !”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
