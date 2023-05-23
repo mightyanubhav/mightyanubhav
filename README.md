@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kumaranubhav691@gmail.com**
 
-- ⚡ Fun fact **“I'm better than yesterday !”**
+- ⚡ Fun fact **“Coding is very boring !”**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
